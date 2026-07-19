@@ -1,6 +1,6 @@
 # HR-Analytics-Dashboard
 
-## 📌 Project Objective
+##  Project Objective
 This project focuses on analyzing employee workforce data using Power BI.  
 The objective is to monitor employee demographics, promotion eligibility, service years, and workforce status through an interactive dashboard that supports HR decision-making.
 
@@ -33,7 +33,7 @@ The objective is to monitor employee demographics, promotion eligibility, servic
 
 ---
 
-## 📈 Key Insights
+##  Key Insights
 - Total Employees: **1,470**
 - Female Employees: **588 (40%)**
 - Male Employees: **882 (60%)**
@@ -44,7 +44,7 @@ The objective is to monitor employee demographics, promotion eligibility, servic
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 - Power BI
 - Power Query
 - DAX
