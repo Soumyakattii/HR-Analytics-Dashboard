@@ -28,8 +28,8 @@ The objective is to monitor employee demographics, promotion eligibility, servic
 ---
 
 ## 📊 Dashboard
-(<img width="958" height="553" alt="dashboard" src="https://github.com/user-attachments/assets/3dff7bf9-cb05-4058-b628-9aa7b3dc1559" />
-.png)
+<img width="958" height="553" alt="dashboard" src="https://github.com/user-attachments/assets/3dff7bf9-cb05-4058-b628-9aa7b3dc1559" />
+
 
 ---
 
